@@ -1,0 +1,4 @@
+#Sun Sep 19 21:52:41 BDT 2021
+base.0=F\:\\ProgrammingWorkPlace\\src\\mobileBaseWorkplaceSourceCode\\FlutterSourceCode\\my_project\\uber_clone_src\\uber_clone\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
